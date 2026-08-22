@@ -1,0 +1,4 @@
+interface:
+  display_name: "Structure Agentic Monorepo"
+  short_description: "Design coordinated agent teams for monorepos"
+  default_prompt: "Use $structure-agentic-monorepo to design or retrofit a coordinated agent-team operating system for this repository."
